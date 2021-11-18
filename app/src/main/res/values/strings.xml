@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="about">О нас</string>
+    <string name="about_info">Реклама</string>
+    <string name="to_back">Назад</string>
+    <string name="menu">Меню</string>
+    <string name="description">Icon</string>
+</resources>
